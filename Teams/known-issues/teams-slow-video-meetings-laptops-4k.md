@@ -27,7 +27,7 @@ Overall Teams performance on laptops may be affected during meetings that use vi
 Reduce the resource requirements for your laptop to improve the Teams experience during the meeting. To do this, try one or more of the following methods:
 
 - Close any other applications that are running video.
-- Close browser tabs that you don’t need during the meeting.
+- Close browser tadddbs that you don’t need during the meeting.
 - Disconnect your monitor from the port replicator or docking station, and directly connect it to the video port on the laptop, if available.
 - Change the resolution of your 4K or UHD monitor temporarily to 1920 x 1080. Instructions for doing this on Windows are located at [Change desktop icon size or screen resolution](https://support.microsoft.com/help/4026956/windows-10-change-screen-resolution).
 - Turn off your own video during the meeting. To do so, select **Turn camera off** in the meeting controls.
